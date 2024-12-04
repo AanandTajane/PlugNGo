@@ -1,0 +1,17 @@
+.navbar {
+    padding: 0;
+    margin: 0;
+    display: flexbox;
+    width: 100%,
+
+}
+
+.link{
+    text-decoration: none;
+    padding:10px;
+}
+
+.link :hover{
+    color:white;
+    background-color: aqua;
+}
